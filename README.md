@@ -1,5 +1,3 @@
-## Note
-My project development took place on Replit, so the commit history isn't visible here on GitHub. You can explore my commit history by visiting https://replit.com/@tulsacity2/tutor.
 ## How TutorScape Works
 TutorScape is an innovative online platform facilitating peer-to-peer tutoring without financial exchange. For instance, when Sam, seeking biology help, connects with John, who desires Algebra 2 guidance, they exchange their expertise through free Zoom calls. Leveraging cutting-edge AI technology, TutorScape strategically matches users, fostering collaborative learning experiences between individuals with complementary knowledge and interests.
 ## Features
